@@ -7,7 +7,7 @@ A web app for a UK energy supplier's **day-ahead trading desk**. It shows:
 
 Scope: GB national wind, Elexon BMRS data only, for purchase decisions made in **January 2026**.
 
-**Live app:** <https://REPLACE-ME.vercel.app>  ·  **Video walkthrough:** <https://youtu.be/REPLACE-ME>
+**Live app:** <https://qzvrk7.vercel.app/>  ·  **Video walkthrough:** _coming soon_
 
 ---
 
