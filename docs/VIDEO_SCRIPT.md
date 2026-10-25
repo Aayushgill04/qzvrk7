@@ -9,7 +9,7 @@ the executed notebook.
 ## Part 1: Client pitch (≈4:30)
 
 **[0:00, title / app landing page]**
-"Hi, I'm ___. Over the pilot we built the *Wind Forecast Monitor* for your day-ahead desk. Every morning you decide how much
+"Hi, I'm ___. Over the pilot we built the *Wind Power Forecasting Portal* for your day-ahead desk. Every morning you decide how much
 power to buy for tomorrow. Wind covers a big share of demand, but you only know what the *forecast* says. This tool answers
 two questions: *what was the latest wind forecast when I had to decide?* and *how much should I trust it?*"
 

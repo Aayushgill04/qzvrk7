@@ -58,7 +58,7 @@ export default function App() {
     <div className="page">
       <header className="header">
         <div>
-          <h1>Wind Forecast Monitor</h1>
+          <h1>Wind Power Forecasting Portal</h1>
           <p className="subtitle">
             GB national wind generation: forecast vs actual, for day-ahead procurement decisions · January 2026
           </p>

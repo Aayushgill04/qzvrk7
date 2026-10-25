@@ -1,4 +1,4 @@
-# Wind Forecast Monitor
+# Wind Power Forecasting Portal
 
 A web app for a UK energy supplier's **day-ahead trading desk**. It shows:
 
