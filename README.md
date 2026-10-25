@@ -1,4 +1,4 @@
-# Wind Power Forecasting Portal
+# WindWise
 
 A web app for a UK energy supplier's **day-ahead trading desk**. It shows:
 

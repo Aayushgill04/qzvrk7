@@ -17,7 +17,7 @@ from .metrics import by_hour_of_day, error_histogram, summarise
 MAX_HORIZON_H = 48
 DEFAULT_CUTOFF = "09:00"  # GB day-ahead auctions close mid-morning on D-1 (UK time)
 
-app = FastAPI(title="Wind Power Forecasting Portal API", version="1.0.0")
+app = FastAPI(title="WindWise API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=os.getenv("CORS_ORIGINS", "*").split(","),
