@@ -103,7 +103,7 @@ Full analysis: [`analysis/wind_forecast_analysis.ipynb`](analysis/wind_forecast_
 ```
 
 ## Deployment
-- Vercel (live link above): import the GitHub repo in Vercel. No settings needed; `vercel.json` builds `frontend/` and deploys `api/index.py` as a Python function with the data snapshot bundled.
+- Vercel (live link above): import the GitHub repo in Vercel and choose the **Other** application preset (root `./`). Nothing else to configure: `vercel.json` builds `frontend/` and deploys `api/index.py` as a Python function with the data snapshot bundled.
 - Heroku (alternative):`heroku stack:set container && git push heroku main` (uses `heroku.yml` + `Dockerfile`, binds `$PORT`).
 
 ## Use of AI tools
