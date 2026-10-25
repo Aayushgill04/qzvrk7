@@ -103,8 +103,8 @@ Full analysis: [`analysis/wind_forecast_analysis.ipynb`](analysis/wind_forecast_
 ```
 
 ## Deployment
-- **Vercel (live link above):** import the GitHub repo in Vercel. No settings needed; `vercel.json` builds `frontend/` and deploys `api/index.py` as a Python function with the data snapshot bundled.
-- **Heroku (alternative):** `heroku stack:set container && git push heroku main` (uses `heroku.yml` + `Dockerfile`, binds `$PORT`).
+- Vercel (live link above): import the GitHub repo in Vercel. No settings needed; `vercel.json` builds `frontend/` and deploys `api/index.py` as a Python function with the data snapshot bundled.
+- Heroku (alternative):`heroku stack:set container && git push heroku main` (uses `heroku.yml` + `Dockerfile`, binds `$PORT`).
 
 ## Use of AI tools
 This project was built with the help of **Claude Code (Anthropic)**, an AI coding assistant. It helped with scaffolding, code, tests, the analysis notebook and documentation. I directed it, reviewed the output, and checked the results against the live Elexon data.
